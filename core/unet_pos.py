@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Feb 23 2019
-
-@author: Xinzhe Luo
+@author: Qian Yue
 """
 
 from __future__ import print_function, division, absolute_import, unicode_literals

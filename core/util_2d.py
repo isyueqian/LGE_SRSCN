@@ -3,7 +3,7 @@
 Functions and operations for performance visualization and result store,
 some of which are not used in the current situation.
 
-@author: Xinzhe Luo
+@author: Qian Yue
 """
 from __future__ import print_function, division, absolute_import, unicode_literals
 import numpy as np
